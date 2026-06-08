@@ -1,0 +1,6 @@
+{
+  "name": "Classica Cookware & Water Filter Branch Portal",
+  "description": "Premium local distributor branch website for Classica healthy cookware, water filtration systems, and customer support services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
